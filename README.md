@@ -76,7 +76,7 @@ Aplikacja wyświetla:
 ### Instalacja
 
 ```bash
-git clone <link-do-twojego-repo>
+git clone https://github.com/wojtekasus1/ZTP
 cd lifetime-monitor
 
 python -m venv venv
